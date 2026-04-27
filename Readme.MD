@@ -17,6 +17,7 @@ The sliding door is the recommended design.
 
 ```
 low-cost-drone-delivery-platform/
+├── written_final_report.pdf    # Full research paper
 ├── conventional_door.ino       # Arduino firmware for hinged door
 ├── sliding_door.ino            # Arduino firmware for sliding door
 ├── payload_cad_files/          # Payload enclosure (upper + lower modules)
@@ -53,7 +54,7 @@ Any drone capable of carrying the payload system (~1.4 lb) can be used. This pro
 
 ## Paper
 
-Full design details, evaluation methodology, and results are documented in the accompanying research paper.
+Full design details, evaluation methodology, and results are available in [`written_final_report.pdf`](./written_final_report.pdf). Topics covered include the iterative CAD design process (7 enclosure versions), bench reliability testing, flight trials, cost analysis, and a comparison against existing commercial and open-source platforms.
 
 ## License
 
